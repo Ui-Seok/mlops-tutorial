@@ -4,7 +4,7 @@ https://mlops-for-mle.github.io/tutorial/
 
 에서 진행하는 튜토리얼 학습 레포 입니다.
 
-### Setting
+### Environment
 
 - Mac OS
 - Poetry
