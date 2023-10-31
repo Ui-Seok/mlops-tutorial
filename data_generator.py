@@ -67,11 +67,11 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     db_connect = psycopg2.connect(
-        user="myuser",
-        password="mypassword",
+        user="mlflowuser",
+        password="mlflowpassword",
         host=args.db_host,
         port=5432,
-        database="mydatabase",
+        database="mlflowdatabase",
     )
     create_table(db_connect)
     df = get_data()
