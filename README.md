@@ -61,3 +61,6 @@ https://mlops-for-mle.github.io/tutorial/
 
 - FastAPI document를 참고하여 간단한 API 제작
 - Path/Query Parameter를 이용하여 API 제작
+- FastAPI를 이용하여 CRUD를 수행하는 API 제작
+- Pydantic을 이용하여 Create부분을 수정
+- Docker에서 FastAPI 실행
