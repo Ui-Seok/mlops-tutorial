@@ -56,3 +56,8 @@ https://mlops-for-mle.github.io/tutorial/
 
 - MLflow에 저장된 모델을 불러오는 스크립트 작성
 - 불러온 모델을 통하여 추론 및 결과 비교
+
+### Day 08
+
+- FastAPI document를 참고하여 간단한 API 제작
+- Path/Query Parameter를 이용하여 API 제작
