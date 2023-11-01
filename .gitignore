@@ -1,3 +1,4 @@
 *.joblib
 *.csv
 .DS_store
+*.pyc
