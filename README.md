@@ -64,3 +64,8 @@ https://mlops-for-mle.github.io/tutorial/
 - FastAPI를 이용하여 CRUD를 수행하는 API 제작
 - Pydantic을 이용하여 Create부분을 수정
 - Docker에서 FastAPI 실행
+
+### Day 09
+
+- MLflow 서버를 통해 model의 정보를 다운받고 FastAPI를 통해 예측값을 반환하는 API 제작
+- 이를 Dockerfile과 Docker Compose 파일로 만들어 API 실행
