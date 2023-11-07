@@ -1,4 +1,8 @@
+### files
 *.joblib
 *.csv
 .DS_store
 *.pyc
+
+### folders
+/sk_model
