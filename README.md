@@ -69,3 +69,11 @@ https://mlops-for-mle.github.io/tutorial/
 
 - MLflow 서버를 통해 model의 정보를 다운받고 FastAPI를 통해 예측값을 반환하는 API 제작
 - 이를 Dockerfile과 Docker Compose 파일로 만들어 API 실행
+
+### Day 10
+
+- Kafka의 전체 아키텍처에 대해 학습
+- Zookeeper & Broker 학습 및 Docker Compose를 통해 생성
+- Docker Compose를 이용하여 Zookeeper, Broker, Schema Registry, Connect 생성
+- Connect에 Source Connector 생성
+- Docker Compose를 이용하여 데이터를 전달받을 Target DB 서버와 Connect에 Sink Connector 생성
