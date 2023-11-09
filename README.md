@@ -82,3 +82,8 @@ https://mlops-for-mle.github.io/tutorial/
 
 - Stream Serving을 위한 Data Subscriber 코드 작성
 - Docker Compose를 이용하여 Data Subscriber를 생성
+
+### Day 12
+
+- Grafana 대시보드를 통해 실시간으로 데이터를 모니터일하는 대시보드 작성
+- Grafana에 원본 데이터와 예측값을 시각화
